@@ -9,3 +9,6 @@ td{
     border: 1px solid black;
     padding: 8px;
 }
+span{
+    text-decoration: none;
+}
